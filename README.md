@@ -1,4 +1,4 @@
-<h1 align="center"> GitFav</h1>
+<h1 align="center"> Twitter UI </h1>
 
 <p align="center">A Masterclass made by Developer Diego from Rocketseat for introduction in ReactJS concepts using TypeScript.<br/>
 
